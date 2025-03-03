@@ -37,7 +37,7 @@ ThreatWeaver is an advanced web application that leverages artificial intelligen
    ```python
    AZURE_API_ENDPOINT = "your-azure-endpoint"
    AZURE_API_KEY = "your-api-key"
-   AZURE_DEPLOYMENT_NAME = "your-deployment-name"
+   secret_key = "your-secret-key"
    ```
 
 4. Run the application:
